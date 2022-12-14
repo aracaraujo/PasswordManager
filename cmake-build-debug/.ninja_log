@@ -1,0 +1,6 @@
+# ninja log v5
+4	1692	1671025075577869415	CMakeFiles/password_manager.dir/Account.cpp.o	1f4f2323d4254053
+4	1662	1671025075543789438	CMakeFiles/password_manager.dir/Password.cpp.o	bf8956d96fe8722f
+1692	1819	1671025075707588492	password_manager	fc89771d89a79bcb
+3	1593	1671025075473806700	CMakeFiles/password_manager.dir/main.cpp.o	ca0bf5b17d43875e
+4	1252	1671025075136243791	CMakeFiles/password_manager.dir/Dice.cpp.o	cfd0d3070fd9ada7
